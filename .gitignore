@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+include/
+lib/
+lib64/
+share/
+etc/
